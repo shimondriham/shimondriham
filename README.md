@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shimon driham</h1>
-<h3 align="center">A passionate Full-stack/ Frontend developer from Israel</h3>
+<h3 align="center">A passionate Full-stack developer from Israel</h3>
 
 - 🔭 I’m currently looking for  my next job as a **Full-stack development**
 
@@ -32,8 +32,10 @@
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
   <a href="https://https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="vuejs" width="40" height="40"/> </a>
 <a href="https://flutter.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" alt="vuejs" width="40" height="40"/> </a>
-<!-- <a href="https://" target="_blank" rel="noreferrer"> <img src="" alt="vuejs" width="40" height="40"/> </a> -->
-<!--   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> -->
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+<a href="https://npm.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>    
+    
+    
 </p>
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bnayacohen&show_icons=true&locale=en&layout=compact" alt="bnayacohen" /></p> -->
