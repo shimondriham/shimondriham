@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shimon driham</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-// - 🔭 I’m currently looking for  my next job as a **Full-stack development**
-
-- 🌱 I continue to learn and develop my skills i 
-
 - 👨‍💻 All of my projects are available at [https://shimon-my-project.netlify.app/](https://shimon-my-project.netlify.app/)
 
 - 📫 How to reach me **shimondriham523@gmail.com**
